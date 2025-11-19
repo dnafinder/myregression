@@ -44,12 +44,12 @@ function [slope,intercept,STAT]=myregr(x,y,varargin)
 %
 % Created by Giuseppe Cardillo
 % giuseppe.cardillo.75@gmail.com
-% GitHub repository: https://github.com/dnafinder/myregr
+% GitHub repository: https://github.com/dnafinder/myregression
 %
 % To cite this file, this would be an appropriate format:
 % Cardillo G. (2007) MyRegression: a simple function on LS linear
 % regression with many informative outputs.
-% http://www.mathworks.com/matlabcentral/fileexchange/15473
+% GitHub repository: https://github.com/dnafinder/myregression
 %
 % This code is released under the GNU GPL-3.0 license.
 
@@ -507,3 +507,4 @@ if verbose==1
            'Perpendicular distances minimized'})
     xlabel('X'); ylabel('Y');
 end
+
