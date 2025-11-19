@@ -49,12 +49,12 @@ function myregrcomp(x1,y1,x2,y2)
 %
 %   Created by Giuseppe Cardillo
 %   giuseppe.cardillo.75@gmail.com
-%   GitHub repository: https://github.com/dnafinder/myregrcomp
+%   GitHub repository: https://github.com/dnafinder/myregression
 %
 %   To cite this file, this would be an appropriate format:
 %   Cardillo G. (2007) MyRegressionCOMP: a simple routine to compare two
 %   LS regressions.
-%   https://github.com/dnafinder/myregrcomp
+%   GitHub repository: https://github.com/dnafinder/myregression
 %
 %   This code is released under the GNU GPL-3.0 license.
 
@@ -214,3 +214,4 @@ xlabel('X')
 ylabel('Y')
 legend('Location','best')
 hold off
+
