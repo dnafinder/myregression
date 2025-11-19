@@ -60,7 +60,7 @@ function x = myregrinv(xc,yc,yo,varargin)
 %   To cite this file, this would be an appropriate format:
 %   Cardillo G. (2007) MyRegressionINV: resolve a calibration problem that
 %   is: to estimate mean value and confidence interval of x since y.
-%   https://github.com/dnafinder/myregrinv
+%   GitHub repository: https://github.com/dnafinder/myregression
 %
 %   This code is released under the GNU GPL-3.0 license.
 
@@ -219,3 +219,4 @@ end
 if verbose==1
     disp(tr)
 end
+
